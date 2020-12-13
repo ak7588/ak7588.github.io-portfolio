@@ -1,2 +1,2 @@
-# ak7588.github.io-portfolio
+# ak7588.github.io/portfolio
 Personal Portfolio
