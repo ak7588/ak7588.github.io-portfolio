@@ -2,6 +2,10 @@
 var canvas;
 var xPos, yPos;
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+
 // place the canvas and initialize variables
 function setup() {
   canvas = createCanvas(windowWidth, 200);

@@ -200,3 +200,8 @@ li:hover{
   line-height: 1em;
   transform-origin: 0 0;
 }
+
+@media screen and (max-width:1024px){
+  .image {display: block;}
+  .about-text {display: block; float:none;}
+}
